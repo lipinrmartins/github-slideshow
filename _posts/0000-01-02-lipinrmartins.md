@@ -2,5 +2,5 @@
 layout: slide
 title: "Bem vindo ao nosso segundo slide!"
 ---
-Seu texto
+"Toda caminhada começa com o primeiro passo."
 Use a seta para a esquerda para voltar!
